@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+@file:Suppress("DEPRECATION")
+
 package com.example.xr.scenecore
 
 import android.content.ActivityNotFoundException
